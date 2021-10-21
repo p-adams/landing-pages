@@ -9,9 +9,7 @@
   <slot />
 </main>
 
-<footer>
-  <p>Built with SvelteKit</p>
-</footer>
+<footer />
 
 <style>
   main {
