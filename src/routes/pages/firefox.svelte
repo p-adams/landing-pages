@@ -4,7 +4,7 @@
 
 <script lang="ts">
   import Tile from "$lib/Tile.svelte";
-  import FirefoxImg from "../assets/firefox/firefox.png";
+  import FirefoxImg from "../../assets/firefox/firefox.png";
 </script>
 
 <main>
